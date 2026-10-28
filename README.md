@@ -3,8 +3,8 @@
 # Quran Images
 
 [![MIT License](https://img.shields.io/badge/license-MIT-0E3F32?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Miftah-Fentaw/Quran_webp?style=flat-square&color=0E3F32&label=stars)](https://github.com/Miftah-Fentaw/Quran_webp/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Miftah-Fentaw/Quran_webp?style=flat-square&color=0E3F32)](https://github.com/Miftah-Fentaw/Quran_webp/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/Miftah-Fentaw/Quran-Images?style=flat-square&color=0E3F32&label=stars)](https://github.com/Miftah-Fentaw/Quran-Images/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Miftah-Fentaw/Quran-Images?style=flat-square&color=0E3F32)](https://github.com/Miftah-Fentaw/Quran-Images/commits/main)
 
 Quran Images is an open-source set of **Quran page images** for the full mushaf. It holds all **604 pages**, as compact PNG files and as higher-resolution WebP files, so a mobile app, a desktop app, or a page viewer can ship a readable mushaf **offline**.
 
@@ -25,7 +25,7 @@ Each page is one file. A reader loads the page on screen, keeps a neighbor ready
 ## Quick start
 
 ```bash
-git clone https://github.com/Miftah-Fentaw/Quran_webp.git
+git clone https://github.com/Miftah-Fentaw/Quran-Images.git
 ```
 
 | You want | Open |
@@ -118,8 +118,8 @@ Load one page at a time. Decoding all 604 images at startup spends memory the re
 For day-to-day development, raw files are served from this repository:
 
 ```text
-https://raw.githubusercontent.com/Miftah-Fentaw/Quran_webp/main/png/1.png
-https://raw.githubusercontent.com/Miftah-Fentaw/Quran_webp/main/webp/001.webp
+https://raw.githubusercontent.com/Miftah-Fentaw/Quran-Images/main/png/1.png
+https://raw.githubusercontent.com/Miftah-Fentaw/Quran-Images/main/webp/001.webp
 ```
 
 Ship a copy inside the app, or mirror the folder you chose, for a production reader. Offline use should not depend on GitHub staying reachable.

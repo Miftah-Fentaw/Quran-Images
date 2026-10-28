@@ -6,7 +6,7 @@ Questions, corrections, and pull requests are welcome. Please be kind, assume go
 
 ## How to propose a change
 
-1. Look through the [open issues](https://github.com/Miftah-Fentaw/Quran_webp/issues) so the same idea is not already being discussed.
+1. Look through the [open issues](https://github.com/Miftah-Fentaw/Quran-Images/issues) so the same idea is not already being discussed.
 2. For anything that would touch the page images, open an issue first and wait for a response.
 3. Fork the repository and create a branch from `main`.
 4. Make the change. Docs, the banner, and small pieces of tooling can be opened directly as a pull request.
